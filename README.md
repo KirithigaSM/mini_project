@@ -1,18 +1,23 @@
- mini_project
+ #mini_project
+ 
  1.ATM Application
 
  Two logins - Admin,User
- Admin : Login :Username - admin
- Password - 1234
+ 
+ Admin : Login :
+ 
+   Username - admin
+ 
+   Password - 1234
 
  Admin Page
 
   1.Deposit money - Admin can add the money in terms of denominations
+ 
   2.Balance - Admin can view the ATM balance
 
+ 
  User :Predefind users created alerdy and those users can login
-
-
 
  User 1 :
  
@@ -34,37 +39,43 @@
 		
    userbalance :10000
  
-  User page 
+ User page 
  
- 1.Deposit money - user can deposit amount in account
+   1.Deposit money - user can deposit amount in account
             
- 2.Withdraw money - user can withdraw amount in account
+   2.Withdraw money - user can withdraw amount in account
            
- 3.Balance - user can check balance amount in account
+   3.Balance - user can check balance amount in account
             
- 4.Mini Statement - user can take mini statement
+   4.Mini Statement - user can take mini statement
             
- 5.Pin Generation - pin generation
+   5.Pin Generation - pin generation
             
- 6.Transaction - user can transfer amount 
+   6.Transaction - user can transfer amount 
+
 
 2.AMAZON Application
 
+ 
  Three logins - Admin,Merchant,User
  
  Admin : 
  
- Login Username - admin
+   Login Username - admin
  
- Password - 1234
+   Password - 1234
  
- Merchant : Login ID-a001
+ Merchant : 
  
- Password - 1234
+   Login ID-a001
  
- User : Login ID-kirithi
+   Password - 1234
  
- Password - 1234
+ User : 
+ 
+   Login ID-kirithi
+ 
+   Password - 1234
 
 Admin Page
     
@@ -78,7 +89,8 @@ Admin Page
     
  5. List all Products - Admin can view all products
      
- Merchant Page
+
+Merchant Page
    
  1. New Merchant
     
@@ -96,6 +108,7 @@ Admin Page
             
 	6. View Sales Report - Merchant can view sales report
  
+
 User Page
      
 1. New User
@@ -131,17 +144,17 @@ User Page
  
  Admin Page
       
- 1.Add a book - Admin can Add book
+   1.Add a book - Admin can Add book
       
- 2.Modify book - Admin can modify book
+   2.Modify book - Admin can modify book
       
- 3.Delete book - Admin can remove book
+   3.Delete book - Admin can remove book
       
- 4.List of books - Admin can view books
+   4.List of books - Admin can view books
      
- 5.Add user - Admin can Add user
+   5.Add user - Admin can Add user
      
- 6.Review books - Admin can view review 
+   6.Review books - Admin can view review 
  
 User Page
      
@@ -149,84 +162,70 @@ User Page
     
 2.login 
           
-1.Purchase books - user can take book
+   1.Purchase books - user can take book
          
-2.View cart - user can view cart
+   2.View cart - user can view cart
          
-3.Wallet - wallet in this they can add amount
+   3.Wallet - wallet in this they can add amount
          
-4.Your Review - user can view review
+   4.Your Review - user can view review
          
-5.Your books - User can view taken books
+   5.Your books - User can view taken books
+
 
 
 4.RAILWAY TICKET BOOKING
 
-  One login - User
+
+One login - User
   
-  User : Login ID-kirithi
+   User : Login ID-kirithi
   
-  Password - 1234
+   Password - 1234
   
-  User Page
+  
+User Page
       
   1. New User
       
   2. Existing User
             
-		1.Seat booking - User can book seat
+       1.Seat booking - User can book seat
             
-		2.Seat Cancleing - User can cancle seat
+       2.Seat Cancleing - User can cancle seat
              
-		3.History - User can view history book seat
+       3.History - User can view history book seat
             
-		4.Password change - User can change password
+       4.Password change - User can change password
+
 
 
 5.SPLPITWISE
 
-  One login - User
-  
-  User : Login ID-kirithi
-  
-  Password - 1234
-  
-  User Page
-     
-  1.Create account
-     
- 2.login 
-        
- 1.Expences - User can pay amount
-         
- 2.Add friend - User can add friend
-         
- 3.Remove friend - User can remove friend
-         
- 4.See the Debt - User can see Debt
-        
- 5.Friends list - User can view friends 
-         
- 6.Wallet - wallet in this they can add amount
 
-6.VEHICLE RENTAL MACHINE
-
-   One login - User
-   
+One login - User
+  
    User : Login ID-kirithi
-   
+  
    Password - 1234
   
- User Page
-      
-  1. New User
+User Page
      
-  2. Existing User
-             
-  1.Vehicle booking - User can book Vehicle
-            
-  2.Vehicle Cancleing - User can cancle Vehicle
-             
-  3.History - User can view history book Vehicle
-            
-  4.Password change - User can change password
+1.Create account
+     
+2.login 
+        
+   1.Expences - User can pay amount
+         
+   2.Add friend - User can add friend
+         
+   3.Remove friend - User can remove friend
+         
+   4.See the Debt - User can see Debt
+        
+   5.Friends list - User can view friends 
+         
+   6.Wallet - wallet in this they can add amount
+
+
+
