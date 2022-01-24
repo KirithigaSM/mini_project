@@ -1,7 +1,11 @@
  #mini_project
  
+ 
+ 
  1.ATM Application
 
+ 
+ 
  Two logins - Admin,User
  
  Admin : Login :
@@ -25,7 +29,7 @@
  
    password:1234
          
-   user id:a001
+   user id:a279
          
    userbalance :16000
     
@@ -35,7 +39,7 @@
          
    password:4321
          
-   user id:a002
+   user id:a126
 		
    userbalance :10000
  
@@ -54,8 +58,10 @@
    6.Transaction - user can transfer amount 
 
 
+
 2.AMAZON Application
 
+ 
  
  Three logins - Admin,Merchant,User
  
@@ -126,8 +132,10 @@ User Page
 	5.Password change - they can change password
 
 
+
 3.LIBRARY MANAGEMENT SYSTEM
 
+ 
  
  Two logins - Admin,User
  
@@ -177,6 +185,7 @@ User Page
 4.RAILWAY TICKET BOOKING
 
 
+
 One login - User
   
    User : Login ID-kirithi
@@ -201,6 +210,7 @@ User Page
 
 
 5.SPLPITWISE
+
 
 
 One login - User
